@@ -2,7 +2,6 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![screenshot of to do list](./src/images/Screenshot%202023-01-10%20at%205.28.48%20PM.png)
 
 ## Description
 
