@@ -20,7 +20,7 @@ The following code is for a text editor. My javascript files have been bundles u
 
   ## Installation
 
-  To install this project, download the files from my repository at https://github.com/Edna1999/text-editor. Run an NPM install in the console to load in the correct packages, run an 'npm start' to start the application! Navigate to the local site at http://localhost:3000 to view the app.
+  To install this project, download the files from my repository at https://github.com/Edna1999/text-editor. Run an NPM install in the console to load in the correct packages, run an 'npm run start' to start the application! Navigate to the local site at http://localhost:3000 to view the app.
 
   You can also visit the deployed webpage via the following link: https://calm-lowlands-90253.herokuapp.com/
 
